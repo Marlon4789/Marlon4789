@@ -16,4 +16,4 @@ I am a web developer - PHP, MySQL, JavaScript, Bootstrap. I share my space where
 
 ### Projects:
 Tutorial de OOP en PHP
-* [skedel](https://skedel.herokuapp.com/)
+[skedel](https://skedel.herokuapp.com/)
