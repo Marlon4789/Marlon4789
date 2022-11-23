@@ -1,6 +1,6 @@
 ## Hi there!  I'm a web developer.
 
-I am a web developer - PHP, MySQL, JavaScript, Bootstrap. I share my space where you will find my projects and contributions. I enjoy being in continuous learning and personal growth 🚀
+I am a web developer - PHP, MySQL, JavaScript, Bootstrap. I share my space where you will find my projects. I enjoy being in continuous learning and personal growth 🚀
 
 ### Skills
 
@@ -13,3 +13,7 @@ I am a web developer - PHP, MySQL, JavaScript, Bootstrap. I share my space where
 
 ### You can catch me on:
 * [Twitter](https://twitter.com/MarlonCuartas11)
+
+### Projects:
+Tutorial de OOP en PHP
+* [skedel](https://skedel.herokuapp.com/)
