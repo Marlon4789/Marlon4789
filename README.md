@@ -17,5 +17,5 @@ I am a web developer - PHP, MySQL, JavaScript, Bootstrap. I share my space where
 ### Projects:
 Website to teach OOP in PHP 
 * [skedel](https://skedel.herokuapp.com/)
-* Website to teach OOP in PHP 
-* [skedel](https://skedely.netlify.app/)
+Services website on wp 
+* [skedely](https://skedely.netlify.app/)
