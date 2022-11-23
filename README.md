@@ -15,5 +15,5 @@ I am a web developer - PHP, MySQL, JavaScript, Bootstrap. I share my space where
 * [Twitter](https://twitter.com/MarlonCuartas11)
 
 ### Projects:
-* Website to teach OOP in PHP (https://skedel.herokuapp.com/)[Skedel]
-* Services website on wp (https://skedely.netlify.app/)[skedely]
+* Website to teach OOP in PHP [Skedel](https://skedel.herokuapp.com/)
+* Services website on wp [Skedely](https://skedely.netlify.app/)
