@@ -11,7 +11,7 @@ I am a web developer - PHP, MySQL, JavaScript, Bootstrap. I share my space where
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 
-### Projects:
+### Projects
 * Website to teach OOP in PHP [Redev](http://redev.epizy.com/)
 * Services website on wp [Skedely](https://skedely.netlify.app/)
 * Travel and gastronomy website, built on Bootstrap [Aventure](https://aventure-free.netlify.app/)
