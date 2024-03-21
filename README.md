@@ -1,6 +1,6 @@
 ## ¡Hola! Soy desarrollador Backend.
 
-Soy desarrollador web, especializandome en Backend: Python, PHP, MySQL, JavaScript, Bootstrap. Te Comparto mi espacio donde encontrarás mis proyectos. Disfruto estar en continuo aprendizaje y crecimiento personal 🚀
+Soy desarrollador backend: Python,Docker, PHP, MySQL, JavaScript, Bootstrap. Te Comparto mi espacio donde encontrarás mis proyectos. Disfruto estar en continuo aprendizaje y crecimiento personal 🚀
 
 ### Skills
 
