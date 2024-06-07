@@ -11,5 +11,5 @@ Desarrollador back-end, especializándome en esta área, en lenguajes como Pytho
 * Bootstrap
 * Docker
 
-* [Ver portafolio](https://www.marlon-cuartas-dev.com/)
+#### [Ver portafolio](https://www.marlon-cuartas-dev.com/)
 
