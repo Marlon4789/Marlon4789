@@ -1,15 +1,23 @@
-## ¡Hola! Soy desarrollador Backend.
+# Hola, soy Marlon Cuartas
 
-Soy Marlon Cuartas, especializándome en back-end, en lenguajes como Python, usando Django y actualmente aprendiendo Java. Soy una persona comprometida con el crecimiento personal y profesional, que no para de aprender y adquirir nuevas habilidades blandas y técnicas. Apasionado por la tecnología y la innovación, con el objetivo de impulsar el desarrollo tecnológico en LATAM. 
+Backend Developer en formación | Tecnólogo en Análisis y Desarrollo de Software — SENA  
+Enfocado en desarrollo backend y arquitectura de software.
 
-### Skills
-* Python
-* Django
-* Java
-* Postgresql
-* MySQL
-* Bootstrap
-* Docker
+Trabajo principalmente con **Python y Django**,  
+actualmente profundizando en **Java, principios SOLID y arquitectura backend**.
 
+---
+
+## Tecnologías
+- Java
+- Python
+- Django
+- PostgreSQL
+- MySQL
+- Docker
+
+Actualmente aprendiendo: APIs REST · Clean Architecture · Spring Boot
+
+Preparándome para desempeñarme profesionalmente como Backend Developer.
 
 
