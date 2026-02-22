@@ -1,6 +1,6 @@
 # Hola, soy Marlon Cuartas
 
-Backend Developer en formación | Tecnólogo en Análisis y Desarrollo de Software — SENA  
+**Backend Developer** en formación | Tecnólogo en Análisis y Desarrollo de Software — SENA  
 Enfocado en desarrollo backend y arquitectura de software.
 
 Trabajo principalmente con **Python y Django**,  
