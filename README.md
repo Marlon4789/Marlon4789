@@ -11,5 +11,5 @@ Soy Marlon Cuartas, especializándome en back-end, en lenguajes como Python, usa
 * Bootstrap
 * Docker
 
-#### [Ver portafolio](https://www.marlon-cuartas-dev.com/)
+
 
