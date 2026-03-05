@@ -4,12 +4,13 @@
 Enfocado en desarrollo backend y arquitectura de software.
 
 Trabajo principalmente con **Python y Django**,  
-actualmente profundizando en **Java, principios SOLID y arquitectura backend**.
+actualmente profundizando en **Java,Spring Boot, principios SOLID y arquitectura backend**.
 
 ---
 
 ## Tecnologías
 - Java
+- Spring Boot
 - Python
 - Django
 - PostgreSQL
@@ -17,7 +18,5 @@ actualmente profundizando en **Java, principios SOLID y arquitectura backend**.
 - Docker
 
 Actualmente aprendiendo: APIs REST · Clean Architecture · Spring Boot
-
-Preparándome para desempeñarme profesionalmente como Backend Developer.
 
 
