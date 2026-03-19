@@ -4,7 +4,7 @@
 Enfocado en desarrollo backend y arquitectura de software.
 
 Trabajo principalmente con **Python y Django**,  
-actualmente profundizando en **Java,Spring Boot, principios SOLID y arquitectura backend**.
+actualmente profundizando en **Java,Spring Boot, principios SOLID, JWT y arquitectura backend**.
 
 ---
 
