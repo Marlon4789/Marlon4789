@@ -17,6 +17,4 @@ actualmente profundizando en **Java,Spring Boot, principios SOLID, JWT y arquite
 - MySQL
 - Docker
 
-Actualmente aprendiendo: APIs REST · Clean Architecture · Spring Boot
-
 
